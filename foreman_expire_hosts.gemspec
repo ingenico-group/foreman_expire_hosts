@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
   s.files = Dir['{app,test,lib}/**/*'] + %w(LICENSE README.md)
   s.test_files = Dir['test/**/*']
   s.homepage = 'https://github.com/ingenico-group/foreman_expire_hosts'
-  s.licenses = ['MIT']
+  s.licenses = ['GPL-3']
   s.summary = 'This Plugin will add new column expired_on to hosts table and input filed to host form'
   s.require_paths = ['lib']
   s.add_dependency 'deface'
