@@ -1,3 +1,7 @@
+/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\
+Deprecated repistory, this plugin is maintained officially by The Foreman, please check https://github.com/theforeman/foreman_expire_hosts
+/!\/!\/!\/!\/!\/!\/!\/!\/!\/!\
+
 # foreman\_expire\_hosts
 
 # Context
